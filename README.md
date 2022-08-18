@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuanAlmeidaDeMatos
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning C#
+- 🎓 Studying Analysis and Aystems Development in UMC
